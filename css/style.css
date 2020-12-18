@@ -103,7 +103,10 @@ nav a#pull {
         text-align: left;  
         width: 100%;  
         text-indent: 25px;  
-    }  
+    } 
+    nav li:not(:first-child) {
+    padding-left: 0px;
+} 
 }  
 
 
