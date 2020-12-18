@@ -92,7 +92,8 @@ nav a#pull {
     nav li {  
         width: 50%;  
         float: left;  
-        position: relative;  
+        position: relative; 
+        padding: 0; 
     }  
     nav li a {  
         border-bottom: 1px solid #576979;  
